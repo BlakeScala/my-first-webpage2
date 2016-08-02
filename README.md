@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{My first webpage made at Epicodus}, {08.02.2016}_
+#### _My first webpage made at Epicodus, 08.02.2016_
 
-#### By _**{Blake Scala and Dean Scelza}**_
+#### By _**Blake Scala and Dean Scelza**_
 
 ## Description
 
-_{This is a basic webpage created on my first day at Epicodus.}_
+_This is a basic webpage created on my first day at Epicodus._
 
 ## Setup/Installation Requirements
 
@@ -17,16 +17,16 @@ _{This is a basic webpage created on my first day at Epicodus.}_
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{If you encounter and problems, email me at blakescala@gmail.com}_
+_If you encounter and problems, email me at blakescala@gmail.com_
 
 ## Technologies Used
 
-_{Github and Atom}_
+_Github and Atom_
 
 ### License
 
-Copyright (c) 2016 **_{Blake Scala and Dean Scelza}
+Copyright (c) 2016 **_Blake Scala and Dean Scelza
