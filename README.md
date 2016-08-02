@@ -21,7 +21,7 @@ _There are no known bugs._
 
 ## Support and contact details
 
-_If you encounter and problems, email me at blakescala@gmail.com_
+_If you encounter any problems, email me at blakescala@gmail.com_
 
 ## Technologies Used
 
@@ -29,4 +29,4 @@ _Github and Atom_
 
 ### License
 
-Copyright (c) 2016 **_Blake Scala and Dean Scelza
+Copyright (c) 2016 Blake Scala and Dean Scelza
