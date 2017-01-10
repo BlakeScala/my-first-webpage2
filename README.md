@@ -10,10 +10,10 @@ _This is a basic webpage created on my first day at Epicodus._
 
 ## Setup/Installation Requirements
 
-*_Open the terminal_
-*_Navigate to your desktop_
-*_Run 'git clone https://github.com/BlakeScala/my-first-webpage2'_
-*_Open my-first-webpage2.html_
+* Open the terminal
+* Navigate to your desktop
+* Run 'git clone https://github.com/BlakeScala/my-first-webpage2'
+* Open my-first-webpage2.html
 
 ## Known Bugs
 
